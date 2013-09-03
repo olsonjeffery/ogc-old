@@ -1,8 +1,8 @@
 /* TEAM */
 Author: Jeff Olson
 Site: 
-
-
+Twitter: https://www.twitter.com/olsonjeffery
+Github: https://www.github.com/olsonjeffery
 
 /* THANKS */
 Stephen Coogan - Developer of theme, Oscailte (https://github.com/coogie/oscailte/)

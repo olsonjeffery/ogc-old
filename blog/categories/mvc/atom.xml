@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: mvc | Jeff Olson]]></title>
+  <title><![CDATA[Category: mvc | programming, etc]]></title>
   <link href="http://olsonjeffery.github.io/blog/categories/mvc/atom.xml" rel="self"/>
   <link href="http://olsonjeffery.github.io/"/>
-  <updated>2013-09-02T23:24:06-07:00</updated>
+  <updated>2013-09-03T01:05:10-07:00</updated>
   <id>http://olsonjeffery.github.io/</id>
   <author>
     <name><![CDATA[Jeff Olson]]></name>
