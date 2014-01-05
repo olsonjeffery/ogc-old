@@ -32,6 +32,8 @@
     });
 
     // MOUSE EVENTS
+
+      /*
     mv_ctx.unwinder.register_event('click', '#'+mv_ctx.renderer_canvas_id, function(event) {
       // camera pivot move
       var mouse_pos = {x:event.clientX,y:event.clientY};
@@ -79,6 +81,8 @@
         }
       }
     });
+      */
+      /*
     mv_ctx.unwinder.register_event('mousemove', document, function(event) {
       var camera = mv_ctx.cameras.birds_eye;
       var meshes = mv_ctx.assets.meshes;
@@ -100,6 +104,7 @@
         }
       });
     });
+    */
     return map_view_kh;
   };
   sugs.namespace.set(this, 'ss0.map_view.input_handler', function(input_handler) {
