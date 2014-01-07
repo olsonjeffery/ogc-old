@@ -31,7 +31,7 @@
 
       // set up navbar
       var navbar_id = 'mv_nav';
-      mv_ctx.unwinder = ss0.ux.navbar.create(navbar_id, '© 2014, Jeffery Olson -- rotate/zoom w/ arrow keys', [
+      mv_ctx.unwinder = ss0.ux.navbar.create(navbar_id, '(c) 2014, Jeff Olson -- rotate/zoom w/ arrow keys', [
         {
           id: 'exit_link',
           type: 'link',
